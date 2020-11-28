@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import { Board, Game, Square } from './components'
 
 function App() {
   return (
