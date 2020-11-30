@@ -1,3 +1,22 @@
+# Simple Tic-Tac-Toe Game
+<ul>
+  <li>Let's you play tic-tac-toe</li>
+  <li>Indicates when a player has won the game</li>
+  <li>Stores a game's history as a game progresses</li>
+  <li>Allows players to review a game's history and see previous versions of a game's board</li>
+</ul>
+
+# Stretch Goals
+<ol>
+  <li>Display the location for each move in the format(col,row) in the move history list</li>
+  <li>Bold the currently selected item in the move list</li>
+  <li>Rewrite Board to use two loops to make the squares instead of hardcoding them</li>
+  <li>Add a toggle button that lets you sort the moves in either ascending or descending order</li>
+  <li>When someone wins, hightlight the three squares that cause the win</li>
+  <li>When no one wins, display a message about the result being a draw</li>
+</ol>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
