@@ -1,5 +1,6 @@
 import React from 'react'
 import Square from '../Square/index'
+import './styles.scss'
 
 class Board extends React.Component {
   renderSquare(i) {
